@@ -1,0 +1,4 @@
+dask==2022.2.0
+pySpark==3.2.0
+mpi4py==3.1.0
+concurrent.futures==3.0.5
